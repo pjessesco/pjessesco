@@ -2,6 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjessesco%2Fpjessesco)](https://hits.seeyoufarm.com)
 
+[![stats](https://github-readme-stats.vercel.app/api?username=pjessesco)]()
+
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pjessesco)
 
 <!--
 **pjessesco/pjessesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
